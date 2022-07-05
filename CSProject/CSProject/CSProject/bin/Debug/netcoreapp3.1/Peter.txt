@@ -1,0 +1,11 @@
+PAYSLIP FOR JUL 2022
+====================
+Name of Staff: Peter
+Hours Worked: 149
+
+Basic Pay: £7,450.00
+Allowance: £0.00
+
+====================
+Total Pay: £7,450.00
+====================

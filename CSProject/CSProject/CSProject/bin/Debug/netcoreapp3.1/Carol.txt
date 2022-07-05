@@ -1,0 +1,11 @@
+PAYSLIP FOR JUL 2022
+====================
+Name of Staff: Carol
+Hours Worked: 169
+
+Basic Pay: £5,070.00
+Overtime: £139.50
+
+====================
+Total Pay: £5,209.50
+====================

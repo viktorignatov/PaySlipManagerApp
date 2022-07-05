@@ -1,0 +1,11 @@
+PAYSLIP FOR JUL 2022
+====================
+Name of Staff: John
+Hours Worked: 160
+
+Basic Pay: £4,800.00
+Overtime: £0.00
+
+====================
+Total Pay: £4,800.00
+====================

@@ -1,0 +1,14 @@
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.exe
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.deps.json
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.json
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.dev.json
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.dll
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.pdb
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.AssemblyReference.cache
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfoInputs.cache
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfo.cs
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.CoreCompileInputs.cache
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.dll
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.pdb
+D:\ProgrammingProblems\CSProject\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.genruntimeconfig.cache
